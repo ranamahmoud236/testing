@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 third branch
+=======
+test third branch
+:D
+>>>>>>> thirdBranch
